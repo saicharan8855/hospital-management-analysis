@@ -27,7 +27,7 @@ Complete SQL analysis of a hospital database with 5 tables and 20+ analytical qu
 - Date and time calculations
 - Percentage and ratio analysis
 
-## 🚀 How to Use
+## 🚀 How to  Use
 1. Create database in pgAdmin/MySQL
 2. Import CSV files from `data/` folder
 3. Run SQL queries from `scripts/sql_queries.sql`

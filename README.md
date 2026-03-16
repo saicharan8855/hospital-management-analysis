@@ -32,7 +32,7 @@ Complete SQL analysis of a hospital database with 5 tables and 20+ analytical qu
 2. Import CSV files from `data/` folder
 3. Run SQL queries from `scripts/sql_queries.sql`
 
-## 📈 Key Findings
+## 📈  Key Findings
 - Highest revenue treatment: **MRI**
 - Busiest appointment day: **Wednesday**
 - Patient retention rate: **67.5%**

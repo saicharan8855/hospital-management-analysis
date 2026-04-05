@@ -75,7 +75,7 @@ CREATE DATABASE hospital_management;
 -- 4. Execute analytical queries section by section
 
 ## 👨‍💻 Author
-**Sai Charan** - SQL Portfolio Project
+**Sai Charan** -- SQL Portfolio Project
 
 ---
 *Showcasing healthcare data analytics skills for data science roles.*
